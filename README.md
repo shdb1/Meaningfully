@@ -1,3 +1,3 @@
 # Meaningfully
 
-AI : COntenct related to AI learnings .
+AI : Contenct related to AI learnings .
